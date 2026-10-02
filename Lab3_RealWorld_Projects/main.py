@@ -11,7 +11,7 @@ from diagnostic import (
 
 # Values from the first program
 LAST_NAME = "DANTES"
-SEED_NUM = 6
+SEED_NUM = 5
 FAVORITE_ARTIST = "ONE DIRECTION"
 
 
